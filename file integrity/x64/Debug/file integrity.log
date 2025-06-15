@@ -1,0 +1,7 @@
+﻿  args_parser.cpp
+  dispatcher.cpp
+  hasher.cpp
+  main.cpp
+  Создание кода...
+C:\Users\Maksim\source\repos\file integrity\file integrity\args_parser.cpp(86,1): warning C4715: parse_arguments: значение возвращается не при всех путях выполнения
+  file integrity.vcxproj -> C:\Users\Maksim\source\repos\file integrity\x64\Debug\file integrity.exe

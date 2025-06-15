@@ -1,7 +1,6 @@
 ﻿.vs/
 build/
 out/
-x64/
 *.vsidx
 *.suo
 *.user
